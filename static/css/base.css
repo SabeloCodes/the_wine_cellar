@@ -3,11 +3,11 @@ html {
 }
 
 body {
-    background: url('/media/homepage_background_cropped.jpg') no-repeat center center fixed;
+    background: url('/media/peeling_celar_potrait.jpg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
-    color: #555;
-    font-family: 'Lato';
+    color: #3c3c3c;
+    font-family: 'Merriweather Sans';
 }
 
 /* from Bulma */
@@ -26,6 +26,51 @@ body {
 .main-logo-link {
     width: fit-content;
 }
+
+/* --------------------------------     SEARCHBAR */
+
+.searchbar{
+    margin-bottom: auto;
+    margin-top: auto;
+    height: 60px;
+    background-color: #c9c5c2;
+    border-radius: 30px;
+    padding: 10px;
+    }
+
+    .search_input{
+    color: white;
+    border: 0;
+    outline: 0;
+    background: none;
+    width: 0;
+    caret-color:transparent;
+    line-height: 40px;
+    transition: width 0.4s linear;
+    }
+
+    .searchbar:hover > .search_input{
+    width: 225px;
+    transition: width 0.4s linear;
+    }
+
+    .searchbar:hover > .search_icon{
+    background: white;
+    color: #521038;
+    }
+
+    .search_icon{
+    height: 40px;
+    width: 40px;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color:#3c3c3c;
+    text-decoration:none;
+    }
+
 
 /* -------------------------------- BUTTONS */
 
@@ -52,6 +97,27 @@ body {
 
 .text-black {
     color: #000 !important;
+}
+
+.text-red {
+    color: #690b22 !important;
+}
+
+.text-blue {
+    color: #77c2d9;
+}
+
+.text-charcoal {
+    color: #3c3c3c; 
+}
+
+.text-logo {
+    color: #521038; 
+}
+
+
+.header-background-colour {
+    color: #f9f9f8;
 }
 
 .border-black {
