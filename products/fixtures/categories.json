@@ -62,5 +62,21 @@
       "name": "chile",
       "friendly_name": "Chile"
     }
+  },
+  {
+    "cat": 9,
+    "model": "products.category",
+    "fields": {
+      "name": "austria",
+      "friendly_name": "Austria"
+    }
+  },
+  {
+    "cat": 10,
+    "model": "products.category",
+    "fields": {
+      "name": "new_zealand",
+      "friendly_name": "New Zealand"
+    }
   }
 ]
