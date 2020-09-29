@@ -1,0 +1,66 @@
+[
+  {
+    "cat": 1,
+    "model": "products.category",
+    "fields": {
+      "name": "portugal",
+      "friendly_name": "Portugal"
+    }
+  },
+  {
+    "cat": 2,
+    "model": "products.category",
+    "fields": {
+      "name": "italy",
+      "friendly_name": "Italy"
+    }
+  },
+  {
+    "cat": 3,
+    "model": "products.category",
+    "fields": {
+      "name": "germany",
+      "friendly_name": "Germany"
+    }
+  },
+  {
+    "cat": 4,
+    "model": "products.category",
+    "fields": {
+      "name": "us",
+      "friendly_name": "US"
+    }
+  },
+  {
+    "cat": 5,
+    "model": "products.category",
+    "fields": {
+      "name": "spain",
+      "friendly_name": "Spain"
+    }
+  },
+  {
+    "cat": 6,
+    "model": "products.category",
+    "fields": {
+      "name": "france",
+      "friendly_name": "France"
+    }
+  },
+  {
+    "cat": 7,
+    "model": "products.category",
+    "fields": {
+      "name": "argentina",
+      "friendly_name": "Argentina"
+    }
+  },
+  {
+    "cat": 8,
+    "model": "products.category",
+    "fields": {
+      "name": "chile",
+      "friendly_name": "Chile"
+    }
+  }
+]
