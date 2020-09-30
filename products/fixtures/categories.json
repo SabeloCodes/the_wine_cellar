@@ -86,7 +86,7 @@
       "name": "exclusive",
       "friendly_name": "Exclusive"
     }
-  }
+  },
   {
     "cat": 13,
     "model": "products.category",
