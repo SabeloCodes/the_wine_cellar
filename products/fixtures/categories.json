@@ -78,5 +78,21 @@
       "name": "new_zealand",
       "friendly_name": "New Zealand"
     }
+  },
+  {
+    "cat": 12,
+    "model": "products.category",
+    "fields": {
+      "name": "exclusive",
+      "friendly_name": "Exclusive"
+    }
+  }
+  {
+    "cat": 13,
+    "model": "products.category",
+    "fields": {
+      "name": "clearance",
+      "friendly_name": "Clearance"
+    }
   }
 ]

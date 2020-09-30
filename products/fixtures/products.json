@@ -2,6 +2,147 @@
    {
       "model": "products.product",
       "fields": {
+    "points": "88",
+    "title": "Rocca Giovanni 2012 Mosconi  (Barolo)",
+    "description": "Toasted oak, espresso and exotic spice aromas emerge on this structured red. On the palate, French oak, vanilla, and chocolate underscore ripe berries while raspy tannins leave an astringent mouth-drying close.",
+    "taster_name": "Kerin O’Keefe",
+    "taster_twitter_handle": "@kerinokeefe",
+    "price": 75,
+    "designation": "Mosconi",
+    "variety": "Nebbiolo",
+    "region_1": "Barolo",
+    "category": 13,
+    "province": "Piedmont",
+    "country": "Italy",
+    "winery": "Rocca Giovanni",
+    "image_url": "media/red-wine-P37",
+    "image": "red-wine-P37.jpg"
+      }
+  },
+  {
+       "model": "products.product",
+      "fields": {
+    "points": "88",
+    "title": "Ronchi di Giancarlo Rocca 2012  Barbaresco",
+    "description": "Roasted fennel, scorched earth, leather, game and mature cherry aromas lead the nose while the palate shows French oak, mature black cherry, coffee, roasted herb and a note recalling cured meat. Brawny tannins provide the framework.",
+    "taster_name": "Kerin O’Keefe",
+    "taster_twitter_handle": "@kerinokeefe",
+    "price": 45,
+    "designation": null,
+    "variety": "Nebbiolo",
+    "region_1": "Barbaresco",
+    "category": 13,
+    "province": "Piedmont",
+    "country": "Italy",
+    "winery": "Ronchi di Giancarlo Rocca",
+    "image_url": "media/red-wine-P25",
+    "image": "red-wine-P25.jpg"
+      }
+  },
+  {
+      "model": "products.product",
+      "fields": {
+    "points": "88",
+    "title": "Soléna 2014 Domaine Danielle Laurent Legacy Pinot Noir",
+    "description": "Tight and light in color and weight despite 14 months in 100% new French oak, this offers flavors of watermelon and strawberry, some leesy texture, and a bit of dilute minerality. It's surprisingly short and light given its pedigree. Tasted three times with same results.",
+    "taster_name": "Paul Gregutt",
+    "taster_twitter_handle": "@paulgwine ",
+    "price": 100,
+    "designation": "Domaine Danielle Laurent Legacy",
+    "variety": "Pinot Noir",
+    "region_1": "Willamette Valley",
+    "category": 12,
+    "province": "Oregon",
+    "country": "US",
+    "winery": "Soléna",
+    "image_url": "media/red-wine-P24",
+    "image": "red-wine-P24.jpg"
+      }
+  },
+  {
+       "model": "products.product",
+      "fields": {
+    "points": "88",
+    "title": "Spicewood 2013 The Good Guy Red",
+    "description": "This blend of Tempranillo, Merlot, Cabernet Sauvignon, Graciano and Syrah is concentrated in currant and blackberry, with accents of smoked meat and anise. While light in tannins, there's good grip and structure, with additional spice notes of anise and herbal spice.",
+    "taster_name": "Alexander Peartree",
+    "taster_twitter_handle": null,
+    "price": 40,
+    "designation": "The Good Guy",
+    "variety": "Red Blend",
+    "region_1": null,
+    "category": 13,
+    "province": "Texas",
+    "country": "US",
+    "winery": "Spicewood",
+    "image_url": "media/red-wine-P21",
+    "image": "red-wine-P21.jpg"
+      }
+  },
+  {
+      "model": "products.product",
+      "fields": {
+    "points": "88",
+    "title": "Tapiz 2015 Malbec (Mendoza)",
+    "description": "This opaque Malbec smells grapy, with foxy animal notes mixed in. Flush on the palate, but with abrasive tannins, this tastes like it smells: grapy blackberry with herbal notes and mild toast make up the flavor profile. A dark, blackened finish is big and spicy more than fruity and refined.",
+    "taster_name": "Michael Schachner",
+    "taster_twitter_handle": "@wineschach",
+    "price": 15,
+    "designation": null,
+    "variety": "Malbec",
+    "region_1": "Mendoza",
+    "category": 13,
+    "province": "Mendoza Province",
+    "country": "Argentina",
+    "winery": "Tapiz",
+    "image_url": "media/red-wine-P20",
+    "image": "red-wine-P20.jpg"
+      }
+  },
+  {
+      "model": "products.product",
+      "fields": {
+    "points": "88",
+    "title": "The Williamsburg Winery 2013 Gabriel Archer Reserve Red (Virginia)",
+    "description": "Dusty tobacco meets plum skin and currant on the nose of this blend of Merlot, Petit Verdot and Cabernet Franc. The medium-bodied palate is round and lactic in feel, with grainy tannins giving ample support to the dark fruit tones.",
+    "taster_name": "Alexander Peartree",
+    "taster_twitter_handle": null,
+    "price": 42,
+    "designation": "Gabriel Archer Reserve",
+    "variety": "Bordeaux-style Red Blend",
+    "region_1": "Virginia",
+    "category": 13,
+    "province": "Virginia",
+    "country": "US",
+    "winery": "The Williamsburg Winery",
+    "image_url": "media/red-wine-P20",
+    "image": "red-wine-P20.jpg"
+      }
+  },
+  {
+      "model": "products.product",
+      "fields": {
+    "points": "88",
+    "title": "TintoNegro 2014 Malbec (Uco Valley)",
+    "description": "Floral currant and plum aromas fall squarely into the red-fruit spectrum. While not overly deep or dense, this has some weight to go with flavors of cassis, berry and chocolaty oak. It finishes mildly, with soft oak and a light herbal note.",
+    "taster_name": "Michael Schachner",
+    "taster_twitter_handle": "@wineschach",
+    "price": 17,
+    "designation": null,
+    "variety": "Malbec",
+    "region_1": "Uco Valley",
+    "category": 13,
+    "province": "Mendoza Province",
+    "country": "Argentina",
+    "winery": "TintoNegro",
+     "image_url": "media/red-wine-P37",
+    "image": "red-wine-P37.jpg"
+      }
+  },
+   
+   {
+      "model": "products.product",
+      "fields": {
          "points": "87",
          "title": "Nicosia 2013 Vulkà Bianco  (Etna)",
          "description": "Aromas include tropical fruit, broom, brimstone and dried herb. The palate isn't overly expressive, offering unripened apple, citrus and dried sage alongside brisk acidity.",
@@ -35,8 +176,8 @@
          "province": "Douro",
          "country": "Portugal",
          "winery": "Quinta dos Avidagos",
-         "image_url": "media/red-wine-P12",
-         "image": "red-wine-P12.jpg"
+         "image_url": "media/red-wine-P33",
+         "image": "red-wine-P33.jpg"
       }
    },
    {
@@ -419,6 +560,209 @@
          "image": "red-wine-P13.jpg"
       }
    },
+
+
+{
+    "model": "products.product",
+      "fields": {
+    "points": "88",
+    "title": "Quady North 2013 4-2,A Syrah (Rogue Valley)",
+    "description": "Stiff and herbal, this follows a traditional Southern Rhône format, with 3% Viognier co-ferment and aging in neutral wood. The flavors combine wild, tart berry fruit, orange peel and somewhat earthy tannins.",
+    "taster_name": "Paul Gregutt",
+    "taster_twitter_handle": "@paulgwine ",
+    "price": 25,
+    "designation": "4-2,A",
+    "variety": "Syrah",
+    "region_1": "Rogue Valley",
+    "category": 4,
+    "province": "Oregon",
+    "country": "US",
+    "winery": "Quady North",
+    "image_url": "media/red-wine-P32",
+    "image": "red-wine-P32.jpg"
+      }
+  },
+  {
+      "model": "products.product",
+      "fields": {
+    "points": "88",
+    "title": "Ricossa 2012  Barbaresco",
+    "description": "Subdued aromas recall dried woodland berry, mint and a whiff of culinary spice. The juicy, straightforward palate offers raspberry, ripe cherry, clove and a touch of star anise alongside solid but well integrated tannins. Drink through 2019.",
+    "taster_name": "Kerin O’Keefe",
+    "taster_twitter_handle": "@kerinokeefe",
+    "price": 30,
+    "designation": null,
+    "variety": "Nebbiolo",
+    "region_1": "Barbaresco",
+    "category": 2,
+    "province": "Piedmont",
+    "country": "Italy",
+    "winery": "Ricossa",
+    "image_url": "media/red-wine-P33",
+    "image": "red-wine-P33.jpg"
+      }
+  },
+  {
+      "model": "products.product",
+      "fields": {
+    "points": "99",
+    "title": "Hacormim 2014 Adi 13 Merlot (Israel)",
+    "description": "Offering aromas of blackberry, strawberry and green bell pepper, this wine has flavors of raspberry, strawberry, black cherry and leather. The fruit flavors are jammy on the palate and strong tannins and equally strong acidity make for a pleasing wine.",
+    "taster_name": "Mike DeSimone",
+    "taster_twitter_handle": "@worldwineguys",
+    "price": 125,
+    "designation": "Adi 13",
+    "variety": "Merlot",
+    "region_1": null,
+    "category": 12,
+    "province": "Israel",
+    "country": "Israel",
+    "winery": "Hacormim",
+    "image_url": "media/red-wine-P34",
+    "image": "red-wine-P34.jpg"
+      }
+  },
+  {
+      "model": "products.product",
+      "fields": {
+    "points": "98",
+    "title": "Holdvölgy 2013 Vision  (Tokaji)",
+    "description": "A blend of 65% Furmint, 25% Hárslevelu and 10% Kabar, this Hungarian white has aromas of white peach and fresh apricot juice. There are flavors of yellow peach, green apple and crisp clean minerality in the mouth.",
+    "taster_name": "Jeff Jenssen",
+    "taster_twitter_handle": "@worldwineguys",
+    "price": 120,
+    "designation": "Vision",
+    "variety": "White Blend",
+    "region_1": null,
+    "category": 12,
+    "province": "Tokaji",
+    "country": "Hungary",
+    "winery": "Holdvölgy",
+    "image_url": "media/red-wine-P34",
+    "image": "red-wine-P34.jpg"
+      }
+  },
+  {
+      "model": "products.product",
+      "fields": {
+    "points": "98",
+    "title": "Honor Winery 2012 Highest Honor Red (Napa Valley)",
+    "description": "This big-bottled, wax-topped wine blends half Merlot with a quarter each of Cabernet Sauvignon and Petit Verdot. Thick and concentrated in red fruit, it holds back on body somewhat, making way for a soft, likable character with a touch of grit among the definitive red cherry.",
+    "taster_name": "Virginie Boone",
+    "taster_twitter_handle": "@vboone",
+    "price": 99,
+    "designation": "Highest Honor",
+    "variety": "Red Blend",
+    "region_1": "Napa Valley",
+    "category": 12,
+    "province": "California",
+    "country": "US",
+    "winery": "Honor Winery",
+     "image_url": "media/red-wine-P34",
+    "image": "red-wine-P34.jpg"
+      }
+  },
+  {
+      "model": "products.product",
+      "fields": {
+    "points": "98",
+    "title": "Jacques Capsouto 2014 Cotes de Galilee Village Cuvee Eva Rosé (Galilee)",
+    "description": "Pale blush on the glass, this Rhône-style blend has a pleasing bouquet of strawberry and lavender. It is very refreshing, with flavors of strawberry, honeysuckle, orange blossom and watermelon. There is a light sense of coolness towards the finish, but bright citrus notes outlast that sensation.",
+    "taster_name": "Mike DeSimone",
+    "taster_twitter_handle": "@worldwineguys",
+    "price": 120,
+    "designation": "Cotes de Galilee Village Cuvee Eva",
+    "variety": "Rosé",
+    "region_1": null,
+    "category": 12,
+    "province": "Galilee",
+    "country": "Israel",
+    "winery": "Jacques Capsouto",
+     "image_url": "media/rose-wine-P4",
+    "image": "rose-wine-P4.jpg"
+      }
+  },
+  {
+      "model": "products.product",
+      "fields": {
+    "points": "98",
+    "title": "Stellenbosch Cabernet Sauvignon",
+    "description": "Stellenbosch is best known for its Cabernet Sauvignon and Merlot grapes, which are perfectly blended to bring you this deep, rich red wine. Combining vanilla oak and dark plum flavours to create the sophisticated taste that lingers on the palate.",
+    "taster_name": "Roger Voss",
+    "taster_twitter_handle": "@vossroger",
+    "price": 150,
+    "designation": null,
+    "variety": "Cabernet Sauvignon",
+    "region_1": "Stellenbosch ",
+    "category": 12,
+    "province": "Western Cape",
+    "country": "South Africa",
+    "winery": "Jean van de Berg",
+    "image_url": "media/rose-wine-P4",
+    "image": "rose-wine-P4.jpg"
+      }
+  },
+  {
+      "model": "products.product",
+      "fields": {
+    "points": "97",
+    "title": "Rustenberg Stellenbosch R M Nicholson 2018",
+    "description": "Produced in this village in the hills behind the main slope of the Côte de Beaune, this wine is smooth and rich. Fine, soft tannins easily integrate into the sweet texture and red-plum fruit. The acidity is there, giving a wine that is both fresh and generous. Drink from 2018.",
+    "taster_name": "Roger Voss",
+    "taster_twitter_handle": "@vossroger",
+    "price": 45,
+    "designation": null,
+    "variety": "Pinot Noir",
+    "region_1": "Stellenbosch",
+    "category": 12,
+    "province": "Western Cape",
+    "country": "South Africa",
+    "winery": "Rustenburg",
+     "image_url": "media/red-wine-P35",
+    "image": "red-wine-P35.jpg"
+      }
+  },
+  {
+      "model": "products.product",
+      "fields": {
+    "points": "88",
+    "title": "Rijckaert 2013 Terroir de Bissy Les Crays vers Vaux  (Mâcon-Lugny)",
+    "description": "Ripe with yellow fruits and soft acidity, this is a smooth and creamy wine. It also has a more textured character giving a crisper edge that leaves a tangy aftertaste. Drink this rich wine now.",
+    "taster_name": "Roger Voss",
+    "taster_twitter_handle": "@vossroger",
+    "price": 28,
+    "designation": "Terroir de Bissy Les Crays vers Vaux",
+    "variety": "Chardonnay",
+    "region_1": "Mâcon-Lugny",
+    "category": 13,
+    "province": "Burgundy",
+    "country": "France",
+    "winery": "Rijckaert",
+    "image_url": "media/white-wine-P34",
+    "image": "white-wine-P34.jpg"
+      }
+  },
+  {
+       "model": "products.product",
+      "fields": {
+    "points": "88",
+    "title": "Rijckaert 2014 Rendez-Vous de Septembre  (Viré-Clessé)",
+    "description": "The odd name of this wine—meeting in September—is because grapes from different parcels are blended directly in the press at harvest time in September. It is an easy, ripe and open, with attractive white-peach flavors and just a touch of tighter minerality. Drink now.",
+    "taster_name": "Roger Voss",
+    "taster_twitter_handle": "@vossroger",
+    "price": 30,
+    "designation": "Rendez-Vous de Septembre",
+    "variety": "Chardonnay",
+    "region_1": "Viré-Clessé",
+    "category": 13,
+    "province": "Burgundy",
+    "country": "France",
+    "winery": "Rijckaert",
+    "image_url": "media/white-wine-P35",
+    "image": "white-wine-P35.jpg"
+      }
+  },
+
    {
       "model": "products.product",
       "fields": {
@@ -1064,7 +1408,6 @@
       "image": "white-wine-P26.jpg"
       }
    },
-   
    {
        "model": "products.product",
       "fields": {
@@ -1105,7 +1448,6 @@
       "image": "red-wine-P2.jpg"
       }
    },
-   
    {
         "model": "products.product",
       "fields": {
@@ -1122,8 +1464,8 @@
       "province": "Vinho Verde",
       "country": "Portugal",
       "winery": "Messias",
-      "image_url": "media/white-wine-P2",
-      "image": "white-wine-P2.jpg"
+      "image_url": "media/white-wine-P42",
+      "image": "white-wine-P42.jpg"
       }
    },
    
@@ -1144,8 +1486,8 @@
       "province": "Vinho Verde",
       "country": "Portugal",
       "winery": "Quinta de Paços",
-      "image_url": "media/rose-wine-P2",
-      "image": "rose-wine-P2.jpg"
+      "image_url": "media/rose-wine-P4",
+      "image": "rose-wine-P4.jpg"
       }
    },
    
@@ -1168,9 +1510,7 @@
        "image_url": "media/white-wine-P28",
       "image": "white-wine-P28.jpg"
       }
-   },
-   
-   
+   },   
    {
         "model": "products.product",
       "fields": {
@@ -1183,7 +1523,7 @@
       "designation": "Single Vineyard",
       "variety": "Sauvignon Blanc",
       "region_1": null,
-      "category": 10,
+      "category": 12,
       "province": "Awatere Valley",
       "country": "New Zealand",
       "winery": "Yealands",
@@ -1254,8 +1594,6 @@
       "image": "red-wine-P2.jpg"
       }
    },
-   
-   
    {
         "model": "products.product",
       "fields": {
